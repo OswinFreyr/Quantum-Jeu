@@ -1,0 +1,438 @@
+# depslib dependency file v1.0
+1589822503 source:c:\users\payeb\desktop\estaca\algorithmique\jeu quantum\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	"Types_structures.h"
+	"Outils.h"
+	"Initialisation.h"
+	"Affichage.h"
+	"Start_Vaisseaux.h"
+	"Premier_Joueur.h"
+	"Deploiement_Vaisseaux.h"
+	"Actions_de_jeu.h"
+	"Capacites_speciales.h"
+
+1589822503 source:c:\users\payeb\desktop\estaca\algorithmique\jeu quantum\initialisation.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	"Types_structures.h"
+
+1589821262 c:\users\payeb\desktop\estaca\algorithmique\jeu quantum\types_structures.h
+
+1589021720 c:\users\payeb\desktop\estaca\algorithmique\jeu quantum\initialisation.h
+
+1589824042 source:c:\users\payeb\desktop\estaca\algorithmique\jeu quantum\affichage.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	"Types_structures.h"
+	"Initialisation.h"
+	"Affichage.h"
+	"Outils.h"
+
+1589128545 c:\users\payeb\desktop\estaca\algorithmique\jeu quantum\affichage.h
+
+1589206533 c:\users\payeb\desktop\estaca\algorithmique\jeu quantum\start_vaisseaux.h
+
+1589822503 source:c:\users\payeb\desktop\estaca\algorithmique\jeu quantum\start_vaisseaux.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	"Types_structures.h"
+	"Initialisation.h"
+	"Affichage.h"
+	"Outils.h"
+	"Start_Vaisseaux.h"
+
+1589022809 c:\users\payeb\desktop\estaca\algorithmique\jeu quantum\premier_joueur.h
+
+1589822529 source:c:\users\payeb\desktop\estaca\algorithmique\jeu quantum\premier_joueur.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	"Types_structures.h"
+	"Outils.h"
+	"Initialisation.h"
+	"Affichage.h"
+	"Start_Vaisseaux.h"
+	"Premier_Joueur.h"
+
+1589821282 c:\users\payeb\desktop\estaca\algorithmique\jeu quantum\outils.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	"Outils.h"
+	"Types_structures.h"
+	"Initialisation.h"
+	"Affichage.h"
+	"Start_Vaisseaux.h"
+	"Premier_Joueur.h"
+	"Deploiement_Vaisseaux.h"
+
+1589822503 source:c:\users\payeb\desktop\estaca\algorithmique\jeu quantum\outils.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	"Outils.h"
+	"Types_structures.h"
+	"Initialisation.h"
+	"Affichage.h"
+	"Start_Vaisseaux.h"
+	"Premier_Joueur.h"
+	"Deploiement_Vaisseaux.h"
+
+1589822503 source:c:\users\payeb\desktop\estaca\algorithmique\jeu quantum\deploiement_vaisseaux.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	"Types_structures.h"
+	"Outils.h"
+	"Initialisation.h"
+	"Affichage.h"
+	"Start_Vaisseaux.h"
+	"Premier_Joueur.h"
+	"Deploiement_Vaisseaux.h"
+
+1589195269 c:\users\payeb\desktop\estaca\algorithmique\jeu quantum\deploiement_vaisseaux.h
+
+1589824042 source:c:\users\payeb\desktop\estaca\algorithmique\jeu quantum\actions_de_jeu.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	"Types_structures.h"
+	"Outils.h"
+	"Initialisation.h"
+	"Affichage.h"
+	"Start_Vaisseaux.h"
+	"Premier_Joueur.h"
+	"Deploiement_Vaisseaux.h"
+	"Actions_de_jeu.h"
+	"Capacites_speciales.h"
+
+1589819247 source:c:\users\payeb\desktop\estaca\algorithmique\jeu quantum\capacités_spéciales.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	"Types_structures.h"
+	"Outils.h"
+	"Initialisation.h"
+	"Affichage.h"
+	"Start_Vaisseaux.h"
+	"Premier_Joueur.h"
+	"Deploiement_Vaisseaux.h"
+	"Actions_de_jeu.h"
+	"Capacités_spéciales.h"
+
+1589819247 c:\users\payeb\desktop\estaca\algorithmique\jeu quantum\actions_de_jeu.h
+
+1589819247 c:\users\payeb\desktop\estaca\algorithmique\jeu quantum\capacités_spéciales.h
+
+1589819890 c:\users\payeb\desktop\estaca\algorithmique\jeu quantum\capacites_speciales.h
+
+1589824042 source:c:\users\payeb\desktop\estaca\algorithmique\jeu quantum\capacites_speciales.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	"Types_structures.h"
+	"Outils.h"
+	"Initialisation.h"
+	"Affichage.h"
+	"Start_Vaisseaux.h"
+	"Premier_Joueur.h"
+	"Deploiement_Vaisseaux.h"
+	"Actions_de_jeu.h"
+	"Capacites_speciales.h"
+
+1589817124 source:c:\users\pisan\desktop\cours\1a\quantum jeu\actions_de_jeu.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	"Types_structures.h"
+	"Outils.h"
+	"Initialisation.h"
+	"Affichage.h"
+	"Start_Vaisseaux.h"
+	"Premier_Joueur.h"
+	"Deploiement_Vaisseaux.h"
+	"Actions_de_jeu.h"
+	"Capacites_speciales.h"
+
+1589817124 c:\users\pisan\desktop\cours\1a\quantum jeu\types_structures.h
+
+1589817124 c:\users\pisan\desktop\cours\1a\quantum jeu\outils.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	"Outils.h"
+	"Types_structures.h"
+	"Initialisation.h"
+	"Affichage.h"
+	"Start_Vaisseaux.h"
+	"Premier_Joueur.h"
+	"Deploiement_Vaisseaux.h"
+
+1589817124 c:\users\pisan\desktop\cours\1a\quantum jeu\initialisation.h
+
+1589817124 c:\users\pisan\desktop\cours\1a\quantum jeu\affichage.h
+
+1589817124 c:\users\pisan\desktop\cours\1a\quantum jeu\start_vaisseaux.h
+
+1589817124 c:\users\pisan\desktop\cours\1a\quantum jeu\premier_joueur.h
+
+1589817124 c:\users\pisan\desktop\cours\1a\quantum jeu\deploiement_vaisseaux.h
+
+1589817124 c:\users\pisan\desktop\cours\1a\quantum jeu\actions_de_jeu.h
+
+1589817124 c:\users\pisan\desktop\cours\1a\quantum jeu\capacites_speciales.h
+
+1589817124 source:c:\users\pisan\desktop\cours\1a\quantum jeu\affichage.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	"Types_structures.h"
+	"Initialisation.h"
+	"Affichage.h"
+	"Outils.h"
+
+1589817124 source:c:\users\pisan\desktop\cours\1a\quantum jeu\capacites_speciales.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	"Types_structures.h"
+	"Outils.h"
+	"Initialisation.h"
+	"Affichage.h"
+	"Start_Vaisseaux.h"
+	"Premier_Joueur.h"
+	"Deploiement_Vaisseaux.h"
+	"Actions_de_jeu.h"
+	"Capacites_speciales.h"
+
+1589817124 source:c:\users\pisan\desktop\cours\1a\quantum jeu\deploiement_vaisseaux.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	"Types_structures.h"
+	"Outils.h"
+	"Initialisation.h"
+	"Affichage.h"
+	"Start_Vaisseaux.h"
+	"Premier_Joueur.h"
+	"Deploiement_Vaisseaux.h"
+
+1589817124 source:c:\users\pisan\desktop\cours\1a\quantum jeu\initialisation.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	"Types_structures.h"
+
+1589817124 source:c:\users\pisan\desktop\cours\1a\quantum jeu\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	"Types_structures.h"
+	"Outils.h"
+	"Initialisation.h"
+	"Affichage.h"
+	"Start_Vaisseaux.h"
+	"Premier_Joueur.h"
+	"Deploiement_Vaisseaux.h"
+	"Actions_de_jeu.h"
+	"Capacites_speciales.h"
+
+1589817124 source:c:\users\pisan\desktop\cours\1a\quantum jeu\outils.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	"Outils.h"
+	"Types_structures.h"
+	"Initialisation.h"
+	"Affichage.h"
+	"Start_Vaisseaux.h"
+	"Premier_Joueur.h"
+	"Deploiement_Vaisseaux.h"
+
+1589817124 source:c:\users\pisan\desktop\cours\1a\quantum jeu\premier_joueur.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	"Types_structures.h"
+	"Outils.h"
+	"Initialisation.h"
+	"Affichage.h"
+	"Start_Vaisseaux.h"
+	"Premier_Joueur.h"
+
+1589817124 source:c:\users\pisan\desktop\cours\1a\quantum jeu\start_vaisseaux.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	"Types_structures.h"
+	"Initialisation.h"
+	"Affichage.h"
+	"Outils.h"
+	"Start_Vaisseaux.h"
+
+1589813524 source:c:\users\pisan\desktop\estaca cours\1a\quantum jeu\actions_de_jeu.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	"Types_structures.h"
+	"Outils.h"
+	"Initialisation.h"
+	"Affichage.h"
+	"Start_Vaisseaux.h"
+	"Premier_Joueur.h"
+	"Deploiement_Vaisseaux.h"
+	"Actions_de_jeu.h"
+	"Capacites_speciales.h"
+
+1589813524 c:\users\pisan\desktop\estaca cours\1a\quantum jeu\types_structures.h
+
+1589813524 c:\users\pisan\desktop\estaca cours\1a\quantum jeu\outils.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	"Outils.h"
+	"Types_structures.h"
+	"Initialisation.h"
+	"Affichage.h"
+	"Start_Vaisseaux.h"
+	"Premier_Joueur.h"
+	"Deploiement_Vaisseaux.h"
+
+1589813524 c:\users\pisan\desktop\estaca cours\1a\quantum jeu\initialisation.h
+
+1589813524 c:\users\pisan\desktop\estaca cours\1a\quantum jeu\affichage.h
+
+1589813524 c:\users\pisan\desktop\estaca cours\1a\quantum jeu\start_vaisseaux.h
+
+1589813524 c:\users\pisan\desktop\estaca cours\1a\quantum jeu\premier_joueur.h
+
+1589813524 c:\users\pisan\desktop\estaca cours\1a\quantum jeu\deploiement_vaisseaux.h
+
+1589813524 c:\users\pisan\desktop\estaca cours\1a\quantum jeu\actions_de_jeu.h
+
+1589813524 c:\users\pisan\desktop\estaca cours\1a\quantum jeu\capacites_speciales.h
+
+1589813524 source:c:\users\pisan\desktop\estaca cours\1a\quantum jeu\affichage.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	"Types_structures.h"
+	"Initialisation.h"
+	"Affichage.h"
+	"Outils.h"
+
+1589813524 source:c:\users\pisan\desktop\estaca cours\1a\quantum jeu\capacites_speciales.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	"Types_structures.h"
+	"Outils.h"
+	"Initialisation.h"
+	"Affichage.h"
+	"Start_Vaisseaux.h"
+	"Premier_Joueur.h"
+	"Deploiement_Vaisseaux.h"
+	"Actions_de_jeu.h"
+	"Capacites_speciales.h"
+
+1589813524 source:c:\users\pisan\desktop\estaca cours\1a\quantum jeu\deploiement_vaisseaux.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	"Types_structures.h"
+	"Outils.h"
+	"Initialisation.h"
+	"Affichage.h"
+	"Start_Vaisseaux.h"
+	"Premier_Joueur.h"
+	"Deploiement_Vaisseaux.h"
+
+1589813524 source:c:\users\pisan\desktop\estaca cours\1a\quantum jeu\initialisation.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	"Types_structures.h"
+
+1589813524 source:c:\users\pisan\desktop\estaca cours\1a\quantum jeu\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	"Types_structures.h"
+	"Outils.h"
+	"Initialisation.h"
+	"Affichage.h"
+	"Start_Vaisseaux.h"
+	"Premier_Joueur.h"
+	"Deploiement_Vaisseaux.h"
+	"Actions_de_jeu.h"
+	"Capacites_speciales.h"
+
+1589813524 source:c:\users\pisan\desktop\estaca cours\1a\quantum jeu\outils.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	"Outils.h"
+	"Types_structures.h"
+	"Initialisation.h"
+	"Affichage.h"
+	"Start_Vaisseaux.h"
+	"Premier_Joueur.h"
+	"Deploiement_Vaisseaux.h"
+
+1589813524 source:c:\users\pisan\desktop\estaca cours\1a\quantum jeu\premier_joueur.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	"Types_structures.h"
+	"Outils.h"
+	"Initialisation.h"
+	"Affichage.h"
+	"Start_Vaisseaux.h"
+	"Premier_Joueur.h"
+
+1589813524 source:c:\users\pisan\desktop\estaca cours\1a\quantum jeu\start_vaisseaux.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	"Types_structures.h"
+	"Initialisation.h"
+	"Affichage.h"
+	"Outils.h"
+	"Start_Vaisseaux.h"
+

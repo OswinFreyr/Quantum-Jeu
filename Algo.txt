@@ -1,0 +1,14 @@
+enum type {STATION_DE_COMBAT, VAISSEAU_AMIRAL, DESTROYER, FREGATE, INTERCEPTEUR, ECLAIREUR};
+
+typedef struct Vaisseaux{
+                        int position;
+                        enum type type;
+                        }Vaisseaux;
+
+
+typedef struct Joueur {
+                         int Cpt_domination;
+                         int Cpt_recherche;
+                         Vaisseaux Tableau[5];
+                         }Joueur;
+

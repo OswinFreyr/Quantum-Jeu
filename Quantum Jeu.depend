@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1588781742 source:c:\users\pisan\quantum algo\quantum jeu\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+
